@@ -189,6 +189,7 @@ html, body {
 .aboutmeright {
   width: clamp(300px, 50%, 700px);
   padding: 20px;
+  line-height: 30px;
  
 }
 .aboutmeright p{
