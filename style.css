@@ -241,10 +241,7 @@ html, body {
   .hamburger {
     display: block;
   }
-#home{
 
-margin-top: 40px;
-}
 
   .homeright {
     display: none;
@@ -255,10 +252,5 @@ margin-top: 40px;
   .homemiddle img {
     height: 326px;
   }
-  .aboutmetitle{
-    margin-top: -100px;
-  }
-  .aboutmeright{
-    margin-top: -50px;
-  }
+
 }
