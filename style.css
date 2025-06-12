@@ -679,7 +679,7 @@ background-color: var(--bgcolor2);
 
 /* moblie view start */
 
-@media (max-width: 550px) {
+@media (max-width: 650px) {
   .container {
     padding: 10px;
   }
@@ -694,9 +694,12 @@ background-color: var(--bgcolor2);
     margin-top: -100px;
   }
   #aboutmetitle{
-    margin-top: 350px;
+    margin-top: 200px;
   }
-
+.aboutmeleft{
+  height: 350px;
+  width: 100%;
+}
   #services article {
     width: 100%;
     height: fit-content;
@@ -719,6 +722,12 @@ h2{
 h3{
   font-size: 1.2rem;
 }
+.homemiddle{
+  height:350px;
+  width: 100%;
+
+}
+
 }
 
 
