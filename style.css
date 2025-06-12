@@ -679,7 +679,7 @@ background-color: var(--bgcolor2);
 
 /* moblie view start */
 
-@media (max-width: 0px) {
+@media (max-width: 550px) {
   .container {
     padding: 10px;
   }
